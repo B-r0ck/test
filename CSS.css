@@ -1,0 +1,93 @@
+#title-main {
+    color: black;
+    text-transform: capitalize;
+}
+
+.h1 {
+    font-family: cursive;
+    color: rgb(83, 238, 230);
+    text-transform: uppercase;font-size: 60px;
+
+}
+
+body {
+    background-color: black
+}
+
+.paragraphs {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font:bolder;
+    font-size: 16px;
+    padding: 8px;
+    padding-bottom: 80px;
+}
+
+#author {
+    color: rgb(83, 238, 230);
+    font-size: 15px;
+    font: bold
+       
+}
+
+#thinlightpowerful {
+    color: rgb(83, 238, 230);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding: 5px;
+    padding-bottom: 50px;
+    
+}
+
+#top {
+    color: rgb(83, 238, 230);
+    text-transform: uppercase;
+    left: 50px;
+}
+
+#macbookpic {
+    border: 10px;
+    border-style: groove;
+    border-color: rgb(83, 238, 230);
+    border-radius: 10px;
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+
+th{
+    border: 6px;
+    border-style: groove;
+    border-color:rgb(83, 238, 230);
+    color: rgb(83, 238, 230);
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+td{
+    border: 6px;
+    border-style: groove;
+    border-color: white;
+    color: white;
+    font-size: 20px; 
+}
+
+#thinlightpowerfulbattery {
+    color: rgb(83, 238, 230);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+#techspecs {
+    color: rgb(83, 238, 230);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+
+.table {
+    padding-bottom: 60px;
+    position: static;
+    right: 50%;
+}
